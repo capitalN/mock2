@@ -1,60 +1,103 @@
 {
-  "cars": [
+  "products": [
     {
-      "id": 1,
-      "brand": "tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "good car",
+      "price": 7000,
+      "gender": "Female",
+      "category": "Saree",
+      "id": 1
     },
     {
-      "id": 2,
-      "brand": "tata",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 8000,
+      "gender": "Male",
+      "category": "Shirt",
+      "id": 2
     },
     {
-      "brand": "honda",
-      "type": "automated",
-      "year": "2022",
-      "kms": "3000",
-      "Description": "good car",
-      "Price": "500000",
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": "5000",
+      "gender": "Male",
+      "category": "Shirt",
       "id": 3
     },
     {
-      "brand": "suzuki",
-      "type": "manual",
-      "year": "2021",
-      "kms": "3000",
-      "Description": "good car",
-      "Price": "7000000",
-      "id": 4
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 71000,
+      "gender": "Female",
+      "category": "Lehenga",
+      "id": 5
     },
     {
-      "type": "manual",
-      "brand": "honda",
-      "year": "2020",
-      "kms": "6000",
-      "Description": "good car",
-      "Price": "3000000",
-      "id": 5
-    }
-  ],
-  "wishlisted_cars": [
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "new shirt",
+      "description": "very good shirt",
+      "price": 72000,
+      "gender": "Male",
+      "category": "Shirt",
+      "id": 6
+    },
     {
-      "id": 1,
-      "brand": "tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 1000,
+      "gender": "Male",
+      "category": "Jeans",
+      "id": 7
+    },
+    {
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 3000,
+      "gender": "Female",
+      "category": "Kurti",
+      "id": 8
+    },
+    {
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 9000,
+      "gender": "Male",
+      "category": "Jeans",
+      "id": 9
+    },
+    {
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 21000,
+      "gender": "Male",
+      "category": "Jeans",
+      "id": 10
+    },
+    {
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 17000,
+      "gender": "Female",
+      "category": "Saree",
+      "id": 11
+    },
+    {
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/8ca26cdda8e84d66bdeb5cd266e99bd55291eea8/Square-Arms-Upholstered-Fabric-Sofa-with-Pillows.jpg",
+      "name": "website",
+      "description": "desc",
+      "price": 7000,
+      "gender": "Male",
+      "category": "Jeans",
+      "id": 12
     }
   ]
 }
